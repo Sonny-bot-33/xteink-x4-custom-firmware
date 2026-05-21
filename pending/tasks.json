@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-21",
+  "tasks": [
+    {
+      "id": "agua",
+      "title": "Beber agua",
+      "completed": false
+    },
+    {
+      "id": "leer",
+      "title": "Leer 20 minutos",
+      "completed": false
+    },
+    {
+      "id": "caminar",
+      "title": "Dar un paseo corto",
+      "completed": false
+    }
+  ]
+}
