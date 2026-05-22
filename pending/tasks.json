@@ -2,18 +2,23 @@
   "date": "2026-05-22",
   "tasks": [
     {
-      "id": "agua",
+      "id": "beber-agua",
       "title": "Beber agua",
-      "completed": false
+      "completed": true
     },
     {
-      "id": "leer",
+      "id": "leer-20-minutos",
       "title": "Leer 20 minutos",
+      "completed": true
+    },
+    {
+      "id": "llamar-al-médico",
+      "title": "llamar al médico",
       "completed": false
     },
     {
-      "id": "caminar",
-      "title": "Dar un paseo corto",
+      "id": "dormir-un-ratito",
+      "title": "Dormir un ratito",
       "completed": false
     }
   ]
