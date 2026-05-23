@@ -40,6 +40,11 @@
       "id": "enviar-y-ver-detalles-de-la-casa",
       "title": "Enviar y ver detalles de la casa",
       "completed": false
+    },
+    {
+      "id": "comprar-mantel",
+      "title": "comprar mantel",
+      "completed": false
     }
   ]
 }
