@@ -15,6 +15,11 @@
       "id": "lavar-cobijas-y-ropa",
       "title": "Lavar cobijas y ropa",
       "completed": false
+    },
+    {
+      "id": "instalar-cámara-a-paddy",
+      "title": "Instalar cámara a paddy",
+      "completed": false
     }
   ]
 }
