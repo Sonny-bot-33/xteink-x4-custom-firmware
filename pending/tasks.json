@@ -1,24 +1,9 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "tasks": [
     {
-      "id": "beber-agua",
-      "title": "Beber agua",
-      "completed": true
-    },
-    {
-      "id": "leer-20-minutos",
-      "title": "Leer 20 minutos",
-      "completed": true
-    },
-    {
-      "id": "llamar-al-médico",
-      "title": "llamar al médico",
-      "completed": false
-    },
-    {
-      "id": "dormir-un-ratito",
-      "title": "Dormir un ratito",
+      "id": "lavar-carro",
+      "title": "Lavar carro",
       "completed": false
     }
   ]
