@@ -30,6 +30,11 @@
       "id": "cortar-pelo",
       "title": "Cortar pelo",
       "completed": false
+    },
+    {
+      "id": "hacer-ejercicio",
+      "title": "Hacer ejercicio",
+      "completed": false
     }
   ]
 }
