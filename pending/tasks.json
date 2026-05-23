@@ -20,6 +20,11 @@
       "id": "instalar-cámara-a-paddy",
       "title": "Instalar cámara a paddy",
       "completed": false
+    },
+    {
+      "id": "trabajar-en-tdts",
+      "title": "Trabajar en TDTS",
+      "completed": false
     }
   ]
 }
