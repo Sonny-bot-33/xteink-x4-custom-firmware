@@ -5,6 +5,11 @@
       "id": "lavar-carro",
       "title": "Lavar carro",
       "completed": false
+    },
+    {
+      "id": "limpiar-casa",
+      "title": "Limpiar Casa",
+      "completed": false
     }
   ]
 }
