@@ -10,6 +10,11 @@
       "id": "limpiar-casa",
       "title": "Limpiar Casa",
       "completed": false
+    },
+    {
+      "id": "lavar-cobijas-y-ropa",
+      "title": "Lavar cobijas y ropa",
+      "completed": false
     }
   ]
 }
