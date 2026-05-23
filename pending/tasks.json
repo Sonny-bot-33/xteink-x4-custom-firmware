@@ -35,6 +35,11 @@
       "id": "hacer-ejercicio",
       "title": "Hacer ejercicio",
       "completed": false
+    },
+    {
+      "id": "enviar-y-ver-detalles-de-la-casa",
+      "title": "Enviar y ver detalles de la casa",
+      "completed": false
     }
   ]
 }
