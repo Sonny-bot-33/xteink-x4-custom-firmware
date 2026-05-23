@@ -40,6 +40,16 @@
       "id": "enviar-y-ver-detalles-de-la-casa",
       "title": "Enviar y ver detalles de la casa",
       "completed": false
+    },
+    {
+      "id": "llamar-al-médico",
+      "title": "llamar al médico",
+      "completed": false
+    },
+    {
+      "id": "dormir-un-ratito",
+      "title": "Dormir un ratito",
+      "completed": false
     }
   ]
 }
