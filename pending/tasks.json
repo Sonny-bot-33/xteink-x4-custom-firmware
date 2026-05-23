@@ -25,6 +25,11 @@
       "id": "trabajar-en-tdts",
       "title": "Trabajar en TDTS",
       "completed": false
+    },
+    {
+      "id": "cortar-pelo",
+      "title": "Cortar pelo",
+      "completed": false
     }
   ]
 }
